@@ -63,14 +63,12 @@
   10. **对话系统评价方法综述** *张伟男, 张杨子, 刘挺.* <u>中国科学 : 信息科学</u> [[pdf]](http://scis.scichina.com/cn/2017/N112017-00125.pdf)
   11. **A Survey of Available Corpora for Building Data-Driven Dialogue Systems.** *Iulian Vlad Serban, Ryan Lowe, Peter Henderson, Laurent Charlin, Joelle Pineau.* <u>arxiv 2015</u> [[pdf]](https://arxiv.org/abs/1512.05742)
 
-  
+  ### 2. Generative Model
 
-  ##2. Generative Model
-
-  ###2.1 Story
+  ### 2.1 Story
 
   1. **Content Planning for Neural Story Generation with Aristotelian Rescoring** *Seraphina Goldfarb-Tarrant, Tuhin Chakrabarty, Ralph Weischedel, Nanyun Peng.* <u>EMNLP 2020</u> [[pdf]](https://arxiv.org/abs/2009.09870)
-  2. **MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models.** *Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar, Bryan Catanzaro.* [[pdf]](https://arxiv.org/abs/2010.00840)
+2. **MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models.** *Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar, Bryan Catanzaro.* [[pdf]](https://arxiv.org/abs/2010.00840)
   3. **A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation.** *Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang*. <u>TACL 2020</u> [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00302)
   4. **Narrative Interpolation for Generating and Understanding Stories.** *Su Wang, Greg Durrett, Katrin Erk.* <u>arxiv 2020</u> [[pdf]](https://arxiv.org/abs/2008.07466)
   5. **Strategies for structuring story generation. ** *Angela Fan, Mike Lewis, and Yann Dauphin.* <u>ACL 2019</u> [[pdf]](https://www.aclweb.org/anthology/P19-1254.pdf)
@@ -79,34 +77,32 @@
   8. **Hierarchical neural story generation.** *Angela Fan, Mike Lewis, and Yann Dauphin.* <u>ACL 2018</u> [[pdf]](https://www.aclweb.org/anthology/P18-1082.pdf)
   9. **A skeleton-based model for promoting coherence among sentences in narrative story generation.** *Jingjing Xu, Xuancheng Ren, Yi Zhang, Qi Zeng, Xiaoyan Cai, and Xu Sun.* <u>EMNLP 2018</u> [[pdf]](https://www.aclweb.org/anthology/D18-1462/)
   10. **Event representations for automated story generation with deep neural nets.** *Lara Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, and Mark Riedl.* <u>AAAI 2018</u> [[pdf]](https://arxiv.org/abs/1706.01331)
-
+  
   
 
   ### 2.2 Dialog
 
   1. **Learning to Plan and Realize Separately for Open-Ended Dialogue Systems.** *Sashank Santhanam, Zhuo Cheng, Brodie Mather, Bonnie Dorr, Archna Bhatia, Bryanna Hebenstreit, Alan Zemel, Adam Dalton, Tomek Strzalkowski, Samira Shaikh.* <u>Findings of EMNLP 2020</u> [[pdf]](https://arxiv.org/abs/2009.12506)
-  2. **A Large-Scale Chinese Short-Text Conversation Dataset.** *Yida Wang, Pei Ke, Yinhe Zheng, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang.* <u>NLPCC 2020</u> [[pdf]](https://arxiv.org/abs/2008.03946)
+2. **A Large-Scale Chinese Short-Text Conversation Dataset.** *Yida Wang, Pei Ke, Yinhe Zheng, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang.* <u>NLPCC 2020</u> [[pdf]](https://arxiv.org/abs/2008.03946)
   3. **DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation.** *Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan.* <u>ACL 2020</u> [[pdf]](https://www.aclweb.org/anthology/2020.acl-demos.30/)
   4. **Recipes for building an open-domain chatbot.** *Stephen Roller, Emily Dinan, Naman Goyal, Da Ju, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Kurt Shuster, Eric M. Smith, Y-Lan Boureau, Jason Weston.* <u>arxiv 2020</u> [[pdf]](https://arxiv.org/abs/2004.13637)
   5. **Towards a Human-like Open-Domain Chatbot.** *Daniel Adiwardana, Minh-Thang Luong, David R. So, Jamie Hall, Noah Fiedel, Romal Thoppilan, Zi Yang, Apoorv Kulshreshtha, Gaurav Nemade, Yifeng Lu, Quoc V. Le.*  <u>arxiv 2020</u> [[pdf]](https://arxiv.org/abs/2001.09977)
-
+  
   
 
   ### 2.3 Others
 
   1. **Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.** *Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu.* <u>EMNLP 2019</u> [[pdf]](https://arxiv.org/abs/1908.06605)
-  2. **Chinese poetry generation with planning based neural network.** *Zhe Wang, Wei He, Hua Wu, Haiyang Wu, Wei Li, Haifeng Wang, Enhong Chen.* <u>COLING 2016</u> [[pdf]](https://arxiv.org/abs/1610.09889)
-
+2. **Chinese poetry generation with planning based neural network.** *Zhe Wang, Wei He, Hua Wu, Haiyang Wu, Wei Li, Haifeng Wang, Enhong Chen.* <u>COLING 2016</u> [[pdf]](https://arxiv.org/abs/1610.09889)
   
+  ## 3. Evaluation
 
-  ##3. Evaluation
-
-  ###3.1 Metric
+  ### 3.1 Metric
 
   1. **UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation.** *Jian Guan, Minlie Huang.* <u>EMNLP 2020</u> [[pdf]](https://arxiv.org/pdf/2009.07602.pdf)
-  2. **GRUEN for Evaluating Linguistic Quality of Generated Text.** *Wanzheng Zhu and Suma Bhat.* <u>Findings of EMNLP 2020</u> [[pdf]](https://arxiv.org/abs/2010.02498)
+2. **GRUEN for Evaluating Linguistic Quality of Generated Text.** *Wanzheng Zhu and Suma Bhat.* <u>Findings of EMNLP 2020</u> [[pdf]](https://arxiv.org/abs/2010.02498)
   3. **Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems.** *Jan Deriu, Don Tuggener, Pius von Däniken, Jon Ander Campos, Alvaro Rodrigo, Thiziri Belkacem, Aitor Soroa, Eneko Agirre, Mark Cieliebak.* <u>EMNLP 2020</u> [[pdf]](https://arxiv.org/abs/2010.02140)
-  4. **How To Evaluate Your Dialogue System: Probe Tasks as an Alternative for Token-level Evaluation Metrics.** *Prasanna Parthasarathi, Joelle Pineau, Sarath Chandar.* <u>arxiv 2020</u> [[pdf]](https://arxiv.org/abs/2008.10427)
+4. **How To Evaluate Your Dialogue System: Probe Tasks as an Alternative for Token-level Evaluation Metrics.** *Prasanna Parthasarathi, Joelle Pineau, Sarath Chandar.* <u>arxiv 2020</u> [[pdf]](https://arxiv.org/abs/2008.10427)
   5. **BLEURT: Learning robust metrics for text generation.** *Thibault Sellam, Dipanjan Das, and Ankur Parikh.* <u>ACL 2020</u> [[pdf]](https://doi.org/10.18653/v1/2020.acl-main.704)
   6. **Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation.** *Bo Pang, Erik Nijkamp, Wenjuan Han, Linqi Zhou, Yixian Liu, Kewei Tu.* <u>ACL 2020</u> [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.333/)
   7. **Learning an Unreferenced Metric for Online Dialogue Evaluation.** *Koustuv Sinha, Prasanna Parthasarathi, Jasmine Wang, Ryan Lowe, William L. Hamilton, Joelle Pineau.* <u>ACL 2020</u> [[pdf]](https://arxiv.org/abs/2005.00583)
@@ -142,21 +138,21 @@
   37. **deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets.** <u>ACL  2015</u> [[pdf]](Michel Galley, Chris Brockett, Alessandro Sordoni, Yangfeng Ji, Michael Auli, Chris Quirk, Margaret Mitchell, Jianfeng Gao, Bill Dolan)
   38. **ROUGE: A package for automatic evaluation of summaries.** <u>Chin-Yew Lin.</u> <u>ACL 2004</u> [[pdf]](https://www.aclweb.org/anthology/W04-1013)
   39. **Bleu: a method for automatic evaluation of machine translation.** *Kishore Papineni, Salim Roukos, Todd Ward, and WeiJing Zhu.* <u>ACL 2002</u>
-
   
-
+  
+  
   ### 3.2 Protocol for human evaluation
 
   1. **Towards Best Experiment Design for Evaluating Dialogue System Output.** *Sashank Santhanam, Samira Shaikh.* <u>INLG 2019</u> [[pdf]](https://arxiv.org/abs/1909.10122)
-  2. **Communication-based Evaluation for Natural Language Generation.**  <u>SCiL 2019</u> [[pdf]](https://arxiv.org/abs/1909.07290)
+2. **Communication-based Evaluation for Natural Language Generation.**  <u>SCiL 2019</u> [[pdf]](https://arxiv.org/abs/1909.07290)
   3. **Domain-Independent turn-level Dialogue Quality Evaluation via User Satisfaction Estimation.**  <u>SIGDIAL 2019</u>[[pdf]](https://arxiv.org/pdf/1908.07064.pdf)
-  4. **ACUTE-EVAL: Improved Dialogue Evaluation with Optimized Questions and Multi-turn Comparisons.** *Margaret Li, Jason Weston, Stephen Roller.* <u>AAAI 2019</u> [[pdf]](https://arxiv.org/abs/1909.03087) 
+4. **ACUTE-EVAL: Improved Dialogue Evaluation with Optimized Questions and Multi-turn Comparisons.** *Margaret Li, Jason Weston, Stephen Roller.* <u>AAAI 2019</u> [[pdf]](https://arxiv.org/abs/1909.03087) 
   5. **ChatEval: A Tool for the Systematic Evaluation of Chatbots.** *João Sedoc, Daphne Ippolito, Arun Kirubarajan, Jai Thirani, Lyle Ungar, Chris Callison-Burch.* <u>ACL 2018</u> [[pdf]](https://www.aclweb.org/anthology/W18-6709.pdf) 
   6. **Towards a Method For Evaluating Naturalness in Conversational Dialog Systems.** *Victor Hung, Miguel Elvir, Avelino Gonzalez, Ronald DeMara.* <u>IEEE ICSMC 2009</u> [[pdf]](https://ieeexplore.ieee.org/abstract/document/5345904/) 
   7. **Empirical Methods for Evaluating Dialog Systems.** *Tim Paek.* <u>ACL 2001</u> [[pdf]](https://www.aclweb.org/anthology/W01-0902.pdf)
-
   
-
+  
+  
   ## 4. Others
 
   1. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.* <u>AACL 2020</u> [[pdf]](https://arxiv.org/abs/2009.07243)
