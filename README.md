@@ -25,8 +25,8 @@
     * [2.2 Dialog](#22-dialog) 
     * [2.3 Others](#23-others)
   * [3. Evaluation](#3-evaluation)
-    * [3.1 Metric](3-1-metric)
-    * [3.2 Protocol](protocol)
+    * [3.1 Metric](#31-metric)
+    * [3.2 Protocol](#32-protocol)
   * [4. Others](#4-others)
 
   
