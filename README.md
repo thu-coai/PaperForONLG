@@ -4,17 +4,30 @@
 
 Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https://github.com/nonstopfor), Zhuoer Feng
 
-[TOC]
-
-## Introduction
+### Introduction
 
 **O**pen-e**N**ded **L**anguage **G**eneration (ONLG) refers to those generation tasks where only very limited information is given in the input and there are many plausible output for the same input (also known as one-to-many). ONLG roughly includes chit-chat dialog generation, story generation, review generation, essay generation etc.
 
 
 
-## Some active authors in the list
+### Some active authors in the list
 
 [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), [Stephen Roller](https://stephenroller.com/), [Nanyun Peng](https://violetpeng.github.io//), [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjfgao%2F), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=zh-CN), [Angela Fan](https://ai.facebook.com/people/angela-fan/), [Jason Weston](http://www.thespermwhale.com/jaseweston/), [Ryan Lowe](https://scholar.google.ca/citations?user=iRgYMuEAAAAJ&hl=en), [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/)...
+
+
+
+### Contents
+
+* [0. Resource](#0-resource)
+* [1. Survey](#1-survey)
+* [2. Generative Model](#2-generative-model)
+  * [2.1 Story](#21-story)
+  * [2.2 Dialog](#22-dialog) 
+  * [2.3 Others](#23-others)
+* [3. Evaluation](#3-evaluation)
+  * [3.1 Metric](#31-metric)
+  * [3.2 Protocol](#32-protocol)
+* [4. Others](#4-others)
 
 
 
