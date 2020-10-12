@@ -26,7 +26,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
   * [2.3 Others](#23-others)
 * [3. Evaluation](#3-evaluation)
   * [3.1 Metric](#31-metric)
-  * [3.2 Protocol](#32-protocol)
+  * [3.2 Protocol](#32-protocol-for-human-evaluation)
 * [4. Others](#4-others)
 
 
