@@ -1,6 +1,6 @@
 # Paper List for Open-eNded Language Generation (ONLG)
 
-![](https://img.shields.io/github/last-commit/thu-coai/PaperForONLG?color=blue) ![](https://img.shields.io/badge/PaperNumber-118-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thu-coai/PaperForONLG?color=blue) ![](https://img.shields.io/badge/PaperNumber-130-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https://github.com/nonstopfor), Zhuoer Feng
 
