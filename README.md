@@ -66,7 +66,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 ## 1. Survey
 
 1. **Automatic story generation: A survey of approaches.** *ARWA I. ALHUSSAIN and AQIL M. AZMI.* `ACM computing surveys 2021` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3453156) ![](https://img.shields.io/badge/story-navy) 
-2. **Automatic Story Generation: Challenges and Attempts.** *Amal Alabdulkarim, Siyan Li, Xiangyu Peng.* `arxiv 2021` [[pdf]](https://www.aclweb.org/anthology/2021.nuse-1.8/) ![](https://img.shields.io/badge/story-navy)
+2. **Automatic Story Generation: Challenges and Attempts.** *Amal Alabdulkarim, Siyan Li, Xiangyu Peng.* `ACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.nuse-1.8/) ![](https://img.shields.io/badge/story-navy)
 3. **Combining pre-trained language models and structured knowledge.** *Pedro Colon-Hernandez, Catherine Havasi, Jason Alonso, Matthew Huggins, Cynthia Breazeal.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2101.12294) ![](https://img.shields.io/badge/knowledge-red)
 4. **A Survey of Knowledge-Enhanced Text Generation.** *Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.04389) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/story-navy) ![](https://img.shields.io/badge/knowledge-red)
 5. **Automatic Story Generation: State of the Art and Recent Trends.**  *Brian Daniel Herrera-González, Alexander Gelbukh, and Hiram Calvo.* `MICA 2020` [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-030-60887-3_8) ![](https://img.shields.io/badge/story-navy)
