@@ -1,8 +1,8 @@
 # Paper List for Open-eNded Language Generation (ONLG)
 
-![](https://img.shields.io/github/last-commit/thu-coai/PaperForONLG?color=blue) ![](https://img.shields.io/badge/PaperNumber-158-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thu-coai/PaperForONLG?color=blue) ![](https://img.shields.io/badge/PaperNumber-159-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https://github.com/nonstopfor), Zhuoer Feng
+Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https://github.com/nonstopfor), Xuekai Zhu, Zhuoer Feng
 
 ### Introduction
 
@@ -122,6 +122,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 31. **A skeleton-based model for promoting coherence among sentences in narrative story generation.** *Jingjing Xu, Xuancheng Ren, Yi Zhang, Qi Zeng, Xiaoyan Cai, and Xu Sun.* `EMNLP 2018` [[pdf]](https://www.aclweb.org/anthology/D18-1462/) ![](https://img.shields.io/badge/planning-brightgreen)
 32. **Event representations for automated story generation with deep neural nets.** *Lara Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, and Mark Riedl.* `AAAI 2018` [[pdf]](https://arxiv.org/abs/1706.01331)
 33. **Discourse-Driven Narrative Generation with Bipartite Planning.** *David R. Winer and R. Michael Young.* `ACL 2016` [[pdf]](https://www.aclweb.org/anthology/W16-6602/) ![](https://img.shields.io/badge/planning-brightgreen)
+34. **Story Generation with Crowdsourced Plot Graphs.** *Boyang Li, Stephen Lee-Urban, George Johnston, and Mark O. Riedl.* `AAAI 2012 ` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/8649)  ![](https://img.shields.io/badge/planning-brightgreen)
 
 ### 2.2 Dialog
 
