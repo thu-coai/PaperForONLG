@@ -83,7 +83,8 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 13. **How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation.** *Chia-Wei Liu, Ryan Lowe, Iulian Serban, Mike Noseworthy, Laurent Charlin, Joelle Pineau.* `EMNLP 2016` [[pdf]](https://www.aclweb.org/anthology/D16-1230/) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/evaluation-darkred)
 14. **对话系统评价方法综述** *张伟男, 张杨子, 刘挺.* `中国科学 : 信息科学` [[pdf]](http://scis.scichina.com/cn/2017/N112017-00125.pdf) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/evaluation-darkred)
 15. **A Survey of Available Corpora for Building Data-Driven Dialogue Systems.** *Iulian Vlad Serban, Ryan Lowe, Peter Henderson, Laurent Charlin, Joelle Pineau.* `arxiv 2015` [[pdf]](https://arxiv.org/abs/1512.05742) ![](https://img.shields.io/badge/dialog-gold)
-
+16. **A Survey of Transformers.** *Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.04554)
+17. **Pretrained Language Models for Text Generation: A Survey.** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2105.10311)
 
 
 ## 2. Generative Model
