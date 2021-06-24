@@ -25,7 +25,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 * [2. Generative Model](#2-generative-model)
   * [2.1 Story](#21-story)
   * [2.2 Dialog](#22-dialog) 
-  * [2.3 Dialog](#23-Image2Text)
+  * [2.3 Image2Text](#23-Image2Text)
   * [2.4 Others](#24-others)
 * [3. Evaluation](#3-evaluation)
   * [3.1 Metric](#31-metric)
@@ -143,7 +143,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 12. **Adversarial Learning for Neural Dialogue Generation.** *Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky.* `EMNLP 2017` [[pdf]](https://www.aclweb.org/anthology/D17-1230/)
 
 ### 2.3 Image2Text
-1. ** Generative Pretraining from Pixels.** *Mark Chen, Alec Radford,Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan,
+1. **Generative Pretraining from Pixels.** *Mark Chen, Alec Radford,Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan,
 Ilya Sutskever.* `ICML 2020` [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf#:~:text=Generative%20Pretraining%20from%20Pixels%20%28Radford%20et%20al.%2C2019%29%20formulation,and%20all%20operations%20lie%20strictly%20on%20residual%20paths.)
 
 ### 2.4 Others
