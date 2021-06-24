@@ -145,7 +145,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 ### 2.3 Image2Text
 1. **Generative Pretraining from Pixels.** *Mark Chen, Alec Radford,Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan,
 Ilya Sutskever.* `ICML 2020` [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf#:~:text=Generative%20Pretraining%20from%20Pixels%20%28Radford%20et%20al.%2C2019%29%20formulation,and%20all%20operations%20lie%20strictly%20on%20residual%20paths.)
-2. **CapWAP: Image Captioning with a Purpose.** *Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark, Regina Barzilay.* `EMNLP 2020` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.705/)
+2. **CapWAP: Image Captioning with a Purpose.** *Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark, Regina Barzilay.* `EMNLP 2020` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.705/) ![](https://img.shields.io/badge/dialog-gold)
 
 ### 2.4 Others
 
