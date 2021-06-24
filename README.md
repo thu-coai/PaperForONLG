@@ -141,9 +141,11 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 11. **Towards a Human-like Open-Domain Chatbot.** *Daniel Adiwardana, Minh-Thang Luong, David R. So, Jamie Hall, Noah Fiedel, Romal Thoppilan, Zi Yang, Apoorv Kulshreshtha, Gaurav Nemade, Yifeng Lu, Quoc V. Le.*  `arxiv 2020` [[pdf]](https://arxiv.org/abs/2001.09977) ![](https://img.shields.io/badge/ptm-blue)
 12. **Adversarial Learning for Neural Dialogue Generation.** *Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky.* `EMNLP 2017` [[pdf]](https://www.aclweb.org/anthology/D17-1230/)
 
+### 2.3 Image2Text
+1. ** Generative Pretraining from Pixels.** *Mark Chen, Alec Radford,Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan,
+Ilya Sutskever.* `ICML 2020` [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf#:~:text=Generative%20Pretraining%20from%20Pixels%20%28Radford%20et%20al.%2C2019%29%20formulation,and%20all%20operations%20lie%20strictly%20on%20residual%20paths.)
 
-
-### 2.3 Others
+### 2.4 Others
 
 1. **Conditional Generation of Temporally-ordered Event Sequences.** *Shih-Ting Lin, Nathanael Chambers, Greg Durrett* [[pdf]](https://arxiv.org/abs/2012.15786) `ACL 2021` 
 2. **DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation.** *Xinyu Hua, Ashwin Sreevatsa, Lu Wang.* [[pdf]](https://arxiv.org/abs/2106.00791) `ACL 2021` ![](https://img.shields.io/badge/planning-brightgreen)
