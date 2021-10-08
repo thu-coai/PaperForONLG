@@ -146,9 +146,11 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 12. **Adversarial Learning for Neural Dialogue Generation.** *Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky.* `EMNLP 2017` [[pdf]](https://www.aclweb.org/anthology/D17-1230/)
 
 ### 2.3 MultiModal
-1. **Generative Pretraining from Pixels.** *Mark Chen, Alec Radford,Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan,
-Ilya Sutskever.* `ICML 2020` [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf#:~:text=Generative%20Pretraining%20from%20Pixels%20%28Radford%20et%20al.%2C2019%29%20formulation,and%20all%20operations%20lie%20strictly%20on%20residual%20paths.)
+1. **VisualCOMET: Reasoning about the Dynamic Context of a Still Image** *Jae Sung Park,  Chandra Bhagavatula,  Roozbeh Mottaghi, Ali Farhadi,  Yejin Choi.* `ECCV 2020` [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf)
 2. **CapWAP: Image Captioning with a Purpose.** *Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark, Regina Barzilay.* `EMNLP 2020` [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.705/) ![](https://img.shields.io/badge/dialog-gold)
+3. **Transitional Adaptation of Pretrained Models for Visual Storytelling.** *Youngjae Yu, Jiwan Chung, Heeseung Yun, Jongseok Kim, Gunhee Kim.* `CVPR 2021` [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Transitional_Adaptation_of_Pretrained_Models_for_Visual_Storytelling_CVPR_2021_paper.pdf)
+4. **VinVL: Revisiting Visual Representations in Vision-Language Models.** *Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.* `CVPR 2021` [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_VinVL_Revisiting_Visual_Representations_in_Vision-Language_Models_CVPR_2021_paper.html)
+
 
 ### 2.4 Others
 
