@@ -168,7 +168,10 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 ### 2.4 Others
 
-1. **Hierarchical Transformers Are More Efficient Language Models.** *Piotr Nawrot, Szymon Tworkowski, Michał Tyrolski, Łukasz Kaiser, Yuhuai Wu, Christian Szegedy, Henryk Michalewski.* [[pdf]](https://arxiv.org/abs/2110.13711)
+1. **Controllable Generation from Pre-trained Language Models via Inverse Prompting.** *Xu Zou, Da Yin, Qingyang Zhong, Ming Ding, Hongxia Yang, Zhilin Yang, Jie Tang.* [[pdf]](https://arxiv.org/abs/2103.10685) `kdd 2021`
+2. **Scaling Language Models: Methods, Analysis & Insights from Training Gopher.** *DeepMind* [[pdf]](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf) `arxiv 2021`
+3. **Improving language models by retrieving from trillions of tokens.** *DeepMind* [[pdf]](https://arxiv.org/abs/2112.04426) `arxiv 2021`
+4. **Hierarchical Transformers Are More Efficient Language Models.** *Piotr Nawrot, Szymon Tworkowski, Michał Tyrolski, Łukasz Kaiser, Yuhuai Wu, Christian Szegedy, Henryk Michalewski.* [[pdf]](https://arxiv.org/abs/2110.13711) `arxiv 2021`
 
 2. **A Plug-and-Play Method for Controlled Text Generation.** *Damian Pascual, Beni Egressy, Clara Meister, Ryan Cotterell, Roger Wattenhofer.* [[pdf]](https://arxiv.org/abs/2109.09707) `Findings of EMNLP 2021`
 3. **Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders.** *Giangiacomo Mercatali, André Freitas.* [[pdf]](https://arxiv.org/abs/2109.07169) `Findings of EMNLP 2021`
