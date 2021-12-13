@@ -180,14 +180,15 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 1. **Reconstructing Implicit Knowledge with Language Models.** *Maria Becker, Siting Liang, Anette Frank.* [[pdf]](https://aclanthology.org/2021.deelio-1.2/) `NAACL 2021`
 2. **Differentiable Open-Ended Commonsense Reasoning.** *Bill Yuchen Lin, Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Xiang Ren, William W. Cohen.* [[pdf]](https://arxiv.org/abs/2010.14439) `NAACL 2021`
-3. **Salience-Aware Event Chain Modeling for Narrative Understanding.** *Xiyang Zhang, Muhao Chen, Jonathan May.* [[pdf]](https://arxiv.org/abs/2109.10475) `EMNLP 2021`
-4. **Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction.** *Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao, Shaoyi Chen.* [[pdf]](https://arxiv.org/abs/2106.09232) `ACL 2021`
-5. **Modeling Event Salience in Narratives via Barthes' Cardinal Functions.** *Takaki Otake, Sho Yokoi, Naoya Inoue, Ryo Takahashi, Tatsuki Kuribayashi, Kentaro Inui.* [[pdf]](https://arxiv.org/abs/2011.01785) `COLING 2020`
-6. **EIGEN: Event Influence GENeration using Pre-trained Language Models.** *Aman Madaan, Dheeraj Rajagopal, Yiming Yang, Abhilasha Ravichander, Eduard Hovy, Shrimai Prabhumoye.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.11764)
-7. **Playing Text-Based Games with Common Sense.** *Sahith Dambekodi, Spencer Frazier, Prithviraj Ammanabrolu, Mark O. Riedl.* [[pdf]](https://arxiv.org/abs/2012.02757) `NeurIPS 2020`
-8. **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge.** *Alon Talmor, Oyvind Tafjord, Peter Clark, Yoav Goldberg, Jonathan Berant.*  `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.06609)
-9. **Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning.** *Lianhui Qin, Vered Shwartz, Peter West, Chandra Bhagavatula, Jena D. Hwang, Ronan Le Bras, Antoine Bosselut, Yejin Choi.* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.58/)
-10. **Scene Restoring for Narrative Machine Reading Comprehension.** *Zhixing Tian, Yuanzhe Zhang, Kang Liu, Jun Zhao, Yantao Jia, Zhicheng Sheng.* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.247/) 
+3. **Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings.** *Hendrik Schuff, Hsiu-Yu Yang, Heike Adel, Ngoc Thang Vu.* [[pdf]](https://arxiv.org/abs/2109.07833) `EMNLP 2021 workshop`
+4. **Salience-Aware Event Chain Modeling for Narrative Understanding.** *Xiyang Zhang, Muhao Chen, Jonathan May.* [[pdf]](https://arxiv.org/abs/2109.10475) `EMNLP 2021`
+5. **Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction.** *Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao, Shaoyi Chen.* [[pdf]](https://arxiv.org/abs/2106.09232) `ACL 2021`
+6. **Modeling Event Salience in Narratives via Barthes' Cardinal Functions.** *Takaki Otake, Sho Yokoi, Naoya Inoue, Ryo Takahashi, Tatsuki Kuribayashi, Kentaro Inui.* [[pdf]](https://arxiv.org/abs/2011.01785) `COLING 2020`
+7. **EIGEN: Event Influence GENeration using Pre-trained Language Models.** *Aman Madaan, Dheeraj Rajagopal, Yiming Yang, Abhilasha Ravichander, Eduard Hovy, Shrimai Prabhumoye.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.11764)
+8. **Playing Text-Based Games with Common Sense.** *Sahith Dambekodi, Spencer Frazier, Prithviraj Ammanabrolu, Mark O. Riedl.* [[pdf]](https://arxiv.org/abs/2012.02757) `NeurIPS 2020`
+9. **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge.** *Alon Talmor, Oyvind Tafjord, Peter Clark, Yoav Goldberg, Jonathan Berant.*  `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.06609)
+10. **Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning.** *Lianhui Qin, Vered Shwartz, Peter West, Chandra Bhagavatula, Jena D. Hwang, Ronan Le Bras, Antoine Bosselut, Yejin Choi.* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.58/)
+11. **Scene Restoring for Narrative Machine Reading Comprehension.** *Zhixing Tian, Yuanzhe Zhang, Kang Liu, Jun Zhao, Yantao Jia, Zhicheng Sheng.* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.247/) 
 
 ### 2.5 Pretraining Models
 
@@ -313,4 +314,3 @@ Regarding `prompt`, `plug-and-play`, `adapter` and `general pretraining moddels`
 5. **If beam search is the answer, what was the question?** *Clara Meister, Tim Vieira, Ryan Cotterell.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02650)
 6. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.* `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
 
-****
