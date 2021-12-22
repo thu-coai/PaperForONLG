@@ -220,19 +220,19 @@ Regarding `prompt`, `plug-and-play`, `adapter` and `general pretraining moddels`
 
 ### 2.6 Others
 
-1. **Joint Retrieval and Generation Training for Grounded Text Generation.** *Yizhe Zhang, Siqi Sun, Xiang Gao, Yuwei Fang, Chris Brockett, Michel Galley, Jianfeng Gao, Bill Dolan.* [[pdf]](https://arxiv.org/abs/2105.06597) `arxiv 2021`
-2. **Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders.** *Giangiacomo Mercatali, André Freitas.* [[pdf]](https://arxiv.org/abs/2109.07169) `Findings of EMNLP 2021`
-
-3. **Towards Document-Level Paraphrase Generation with Sentence Rewriting and Reordering.** *Zhe Lin, Yitao Cai, Xiaojun Wan.* [[pdf]](https://arxiv.org/abs/2109.07095) `Findings of EMNLP 2021`
-4. **Conditional Generation of Temporally-ordered Event Sequences.** *Shih-Ting Lin, Nathanael Chambers, Greg Durrett* [[pdf]](https://arxiv.org/abs/2012.15786) `ACL 2021` 
-5. **On Training Instance Selection for Few-Shot Neural Text Generation.** *Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh, Vera Demberg.* [[pdf]](https://arxiv.org/abs/2107.03176) `ACL 2021`
-6. **DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation.** *Xinyu Hua, Ashwin Sreevatsa, Lu Wang.* [[pdf]](https://arxiv.org/abs/2106.00791) `ACL 2021` ![](https://img.shields.io/badge/planning-brightgreen)
-7. **PAIR: Planning and Iterative Reﬁnement in Pre-trained Transformers for Long Text Generation.** *Xinyu Hua, Lu Wang.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02301) ![](https://img.shields.io/badge/planning-brightgreen)
-8. **Progressive Generation of Long Text.** *Bowen Tan, Zichao Yang, Maruan AI-Shedivat, Eric P. Xing, Zhiting Hu.* `NAACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.341/)![](https://img.shields.io/badge/planning-brightgreen)
-9. **Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.** *Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu.* `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1908.06605) ![](https://img.shields.io/badge/planning-brightgreen)
-10. **Chinese poetry generation with planning based neural network.** *Zhe Wang, Wei He, Hua Wu, Haiyang Wu, Wei Li, Haifeng Wang, Enhong Chen.* `COLING 2016` [[pdf]](https://arxiv.org/abs/1610.09889) ![](https://img.shields.io/badge/planning-brightgreen)
-11. **Sentence-Level Content Planning and Style Specification for Neural Text Generation**. *Xinyu Hua, Lu Wang*.  `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1909.00734) ![](https://img.shields.io/badge/planning-brightgreen)
-12. **Summarize, Outline, and Elaborate : Long-Text Generation via Hierarchical Supervision from Extractive Summaries**. *Xiaofei Sun, Chun Fan, Zijun Sun, Yuxian Meng, Fei Wu, JiWei Li*. `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.07074) ![](https://img.shields.io/badge/planning-brightgreen)
+1. **Discourse-Aware Prompt Design for Text Generation.** *Facebook.* [[pdf]](https://arxiv.org/pdf/2112.05717.pdf) `arxiv 2021`
+2. **Joint Retrieval and Generation Training for Grounded Text Generation.** *Yizhe Zhang, Siqi Sun, Xiang Gao, Yuwei Fang, Chris Brockett, Michel Galley, Jianfeng Gao, Bill Dolan.* [[pdf]](https://arxiv.org/abs/2105.06597) `arxiv 2021`
+3. **Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders.** *Giangiacomo Mercatali, André Freitas.* [[pdf]](https://arxiv.org/abs/2109.07169) `Findings of EMNLP 2021`
+4. **Towards Document-Level Paraphrase Generation with Sentence Rewriting and Reordering.** *Zhe Lin, Yitao Cai, Xiaojun Wan.* [[pdf]](https://arxiv.org/abs/2109.07095) `Findings of EMNLP 2021`
+5. **Conditional Generation of Temporally-ordered Event Sequences.** *Shih-Ting Lin, Nathanael Chambers, Greg Durrett* [[pdf]](https://arxiv.org/abs/2012.15786) `ACL 2021` 
+6. **On Training Instance Selection for Few-Shot Neural Text Generation.** *Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh, Vera Demberg.* [[pdf]](https://arxiv.org/abs/2107.03176) `ACL 2021`
+7. **DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Text Generation.** *Xinyu Hua, Ashwin Sreevatsa, Lu Wang.* [[pdf]](https://arxiv.org/abs/2106.00791) `ACL 2021` ![](https://img.shields.io/badge/planning-brightgreen)
+8. **PAIR: Planning and Iterative Reﬁnement in Pre-trained Transformers for Long Text Generation.** *Xinyu Hua, Lu Wang.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02301) ![](https://img.shields.io/badge/planning-brightgreen)
+9. **Progressive Generation of Long Text.** *Bowen Tan, Zichao Yang, Maruan AI-Shedivat, Eric P. Xing, Zhiting Hu.* `NAACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.341/)![](https://img.shields.io/badge/planning-brightgreen)
+10. **Long and Diverse Text Generation with Planning-based Hierarchical Variational Model.** *Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu.* `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1908.06605) ![](https://img.shields.io/badge/planning-brightgreen)
+11. **Chinese poetry generation with planning based neural network.** *Zhe Wang, Wei He, Hua Wu, Haiyang Wu, Wei Li, Haifeng Wang, Enhong Chen.* `COLING 2016` [[pdf]](https://arxiv.org/abs/1610.09889) ![](https://img.shields.io/badge/planning-brightgreen)
+12. **Sentence-Level Content Planning and Style Specification for Neural Text Generation**. *Xinyu Hua, Lu Wang*.  `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1909.00734) ![](https://img.shields.io/badge/planning-brightgreen)
+13. **Summarize, Outline, and Elaborate : Long-Text Generation via Hierarchical Supervision from Extractive Summaries**. *Xiaofei Sun, Chun Fan, Zijun Sun, Yuxian Meng, Fei Wu, JiWei Li*. `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.07074) ![](https://img.shields.io/badge/planning-brightgreen)
 
 
 
