@@ -325,18 +325,19 @@ Regarding `parameter-efficient tuning (prompt/prefix tuning)`, `plug-and-play`, 
 
 ## 4. Others
 
-1. **Factuality Enhanced Language Models for Open-Ended Text Generation.** *Nayeon Lee, Wei Ping, Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro.* `arxiv 2022`. [[pdf]](https://arxiv.org/abs/2206.04624)
-2. **Coherence boosting: When your pretrained language model is not paying enough attention.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `ACL 2022`. [[pdf]](https://aclanthology.org/2022.acl-long.565)
-3. **On Decoding Strategies for Neural Text Generators.** *Gian Wiher, Clara Meister, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2203.15721)
-4. **Knowledge Infusion Decoding.** *Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=upnDJ7itech)
-5. **A Contrastive Framework for Neural Text Generation.** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier.* [[pdf]](https://arxiv.org/abs/2202.06417) `arxiv 2022`
-6. **Typical Decoding for Natural Language Generation.** *Clara Meister, Tiago Pimentel, Gian Wiher, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.00666)
-7. **Long-range and hierarchical language predictions in brains and algorithms.** *Facebook* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2111.14232)
-8. **Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?** *Tianxing He, Jingzhao Zhang, Zhiming Zhou, James Glass.* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.415/)
-9. **Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Zhen Li, Bowen Zhou, Shuguang Cui, Zhiting Hu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.15078)
-10. **NEURO LOGIC DECODING : (Un)supervised Neural Text Generation with Predicate Logic Constraints.** *Ximing Lu, Peter West, Rowan Zellers, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi.* `NAACL 2021.` [[pdf]](https://aclanthology.org/2021.naacl-main.339.pdf) 
-11. **Boosting coherence of language models.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `arxiv 2021.` [[pdf]](https://arxiv.org/abs/2110.08294)
-12. **If beam search is the answer, what was the question?** *Clara Meister, Tim Vieira, Ryan Cotterell.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02650)
-13. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.* `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
-14. **The Curious Case of Neural Text Degeneration.** *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi.* `ICLR 2020` [[pdf]](https://openreview.net/forum?id=rygGQyrFvH)
+1. **NEUROLOGIC A Fesque Decoding: Constrained Text Generation with Lookahead Heuristics.** *UW, Allen.* `NAACL 2022 best paper` [[pdf]](https://arxiv.org/abs/2112.08726)
+2. **Factuality Enhanced Language Models for Open-Ended Text Generation.** *Nayeon Lee, Wei Ping, Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro.* `arxiv 2022`. [[pdf]](https://arxiv.org/abs/2206.04624)
+3. **Coherence boosting: When your pretrained language model is not paying enough attention.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `ACL 2022`. [[pdf]](https://aclanthology.org/2022.acl-long.565)
+4. **On Decoding Strategies for Neural Text Generators.** *Gian Wiher, Clara Meister, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2203.15721)
+5. **Knowledge Infusion Decoding.** *Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=upnDJ7itech)
+6. **A Contrastive Framework for Neural Text Generation.** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier.* [[pdf]](https://arxiv.org/abs/2202.06417) `arxiv 2022`
+7. **Typical Decoding for Natural Language Generation.** *Clara Meister, Tiago Pimentel, Gian Wiher, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.00666)
+8. **Long-range and hierarchical language predictions in brains and algorithms.** *Facebook* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2111.14232)
+9. **Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?** *Tianxing He, Jingzhao Zhang, Zhiming Zhou, James Glass.* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.415/)
+10. **Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Zhen Li, Bowen Zhou, Shuguang Cui, Zhiting Hu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.15078)
+11. **NEURO LOGIC DECODING : (Un)supervised Neural Text Generation with Predicate Logic Constraints.** *Ximing Lu, Peter West, Rowan Zellers, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi.* `NAACL 2021.` [[pdf]](https://aclanthology.org/2021.naacl-main.339.pdf) 
+12. **Boosting coherence of language models.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `arxiv 2021.` [[pdf]](https://arxiv.org/abs/2110.08294)
+13. **If beam search is the answer, what was the question?** *Clara Meister, Tim Vieira, Ryan Cotterell.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02650)
+14. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.* `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
+15. **The Curious Case of Neural Text Degeneration.** *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi.* `ICLR 2020` [[pdf]](https://openreview.net/forum?id=rygGQyrFvH)
 
