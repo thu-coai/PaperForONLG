@@ -12,7 +12,7 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 ### Some active authors in the list
 
-[Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), [Stephen Roller](https://stephenroller.com/), [Nanyun Peng](https://violetpeng.github.io//), [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjfgao%2F), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=zh-CN), [Angela Fan](https://ai.facebook.com/people/angela-fan/), [Jason Weston](http://www.thespermwhale.com/jaseweston/), [Ryan Lowe](https://scholar.google.ca/citations?user=iRgYMuEAAAAJ&hl=en), [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/)...
+[Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/), [Stephen Roller](https://stephenroller.com/), [Nanyun Peng](https://violetpeng.github.io//), [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjfgao%2F), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=zh-CN), [Angela Fan](https://ai.facebook.com/people/angela-fan/), [Jason Weston](http://www.thespermwhale.com/jaseweston/), [Ryan Lowe](https://scholar.google.ca/citations?user=iRgYMuEAAAAJ&hl=en), [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/), [Yejin Choi](https://homes.cs.washington.edu/~yejin/)...
 
 
 
@@ -206,26 +206,27 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 Regarding `parameter-efficient tuning (prompt/prefix tuning)`, `plug-and-play`, `adapter` and `general pretraining moddels`
 
-1. **Constrained Sampling from Language Models via Langevin Dynamics in Embedding Spaces.** *Sachin Kumar, Biswajit Paria, Yulia Tsvetkov.* [[pdf]](https://arxiv.org/abs/2205.12558)
-2. **Context-Tuning: Learning Contextualized Prompts for Natural Language Generation.** *Tianyi Tang, Junyi Li, Wayne Xin Zhao.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2201.08670)
-3. **Controllable Generation from Pre-trained Language Models via Inverse Prompting.** *Xu Zou, Da Yin, Qingyang Zhong, Ming Ding, Hongxia Yang, Zhilin Yang, Jie Tang.* [[pdf]](https://arxiv.org/abs/2103.10685) `kdd 2021` 
-4. **LongT5: Efficient Text-To-Text Transformer for Long Sequences.** *Google.* [[pdf]](https://arxiv.org/pdf/2112.07916.pdf) `arxiv 2021`
-5. **Scaling Language Models: Methods, Analysis & Insights from Training Gopher.** *DeepMind* [[pdf]](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf) `arxiv 2021`
-6. **Improving language models by retrieving from trillions of tokens.** *DeepMind* [[pdf]](https://arxiv.org/abs/2112.04426) `arxiv 2021`
-7. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Google* [[pdf]](https://arxiv.org/abs/2104.08691) `EMNLP 2021`
-8. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li, Percy Liang.* `ACL 2021`  [[pdf]](https://aclanthology.org/2021.acl-long.353/)
-9. **A Plug-and-Play Method for Controlled Text Generation.** *Damian Pascual, Beni Egressy, Clara Meister, Ryan Cotterell, Roger Wattenhofer.* [[pdf]](https://arxiv.org/abs/2109.09707) `Findings of EMNLP 2021`
-10. **Attribute Alignment: Controlling Text Generation from Pre-trained Language Models.** *Dian Yu, Kenji Sagae, Zhou Yu.* [[pdf]](https://arxiv.org/abs/2103.11070) `Findings of EMNLP 2021` 
-11. **ERNIE-Doc: A Retrospective Long-Document Modeling Transformer.** *Siyu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang.* [[pdf]](https://arxiv.org/abs/2012.15688) `ACL 2021`
-12. **All NLP Tasks Are Generation Tasks: A General Pretraining Framework.** *Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin Yang, Jie Tang.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2103.10360) 
-13. **GeDi: Generative Discriminator Guided Sequence Generation.** *Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq Joty, Richard Socher, Nazneen Fatema Rajani.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2009.06367)  
-14. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters.** *Ruize Wang, Duyu Tang, Nan Duan, zhongyu wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2002.01808)
-15. **PLUG AND PLAY LANGUAGE MODELS : A SIMPLE APPROACH TO CONTROLLED TEXT GENERATION.** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu.* `ICLR 2020` [[pdf]](https://arxiv.org/abs/1912.02164) 
-16. **Language Models are Few-Shot Learners.** *Tom B. Brown, et al.* `OpenAI blog 2020` [[pdf]](https://arxiv.org/abs/2005.14165) 
-17. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.** *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer.* `ACL 2020` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.703/) 
-18. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu.* `JMLR 2020` [[pdf]](https://arxiv.org/abs/1910.10683) 
-19. **Improving Language Understanding by Generative Pre-Training.** *Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever.* `OpenAI blog 2018` [[pdf]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 
-20. **Language Models are Unsupervised Multitask Learners.** *Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever.* `OpenAI blog 2019` [[pdf]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 
+1. **Quark: Controllable Text Generation with Reinforced [Un]learning.** *Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi.* `arxiv 2022 `[[pdf]](https://arxiv.org/abs/2205.13636)
+2. **Constrained Sampling from Language Models via Langevin Dynamics in Embedding Spaces.** *Sachin Kumar, Biswajit Paria, Yulia Tsvetkov.* [[pdf]](https://arxiv.org/abs/2205.12558)
+3. **Context-Tuning: Learning Contextualized Prompts for Natural Language Generation.** *Tianyi Tang, Junyi Li, Wayne Xin Zhao.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2201.08670)
+4. **Controllable Generation from Pre-trained Language Models via Inverse Prompting.** *Xu Zou, Da Yin, Qingyang Zhong, Ming Ding, Hongxia Yang, Zhilin Yang, Jie Tang.* [[pdf]](https://arxiv.org/abs/2103.10685) `kdd 2021` 
+5. **LongT5: Efficient Text-To-Text Transformer for Long Sequences.** *Google.* [[pdf]](https://arxiv.org/pdf/2112.07916.pdf) `arxiv 2021`
+6. **Scaling Language Models: Methods, Analysis & Insights from Training Gopher.** *DeepMind* [[pdf]](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf) `arxiv 2021`
+7. **Improving language models by retrieving from trillions of tokens.** *DeepMind* [[pdf]](https://arxiv.org/abs/2112.04426) `arxiv 2021`
+8. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Google* [[pdf]](https://arxiv.org/abs/2104.08691) `EMNLP 2021`
+9. **Prefix-Tuning: Optimizing Continuous Prompts for Generation.** *Xiang Lisa Li, Percy Liang.* `ACL 2021`  [[pdf]](https://aclanthology.org/2021.acl-long.353/)
+10. **A Plug-and-Play Method for Controlled Text Generation.** *Damian Pascual, Beni Egressy, Clara Meister, Ryan Cotterell, Roger Wattenhofer.* [[pdf]](https://arxiv.org/abs/2109.09707) `Findings of EMNLP 2021`
+11. **Attribute Alignment: Controlling Text Generation from Pre-trained Language Models.** *Dian Yu, Kenji Sagae, Zhou Yu.* [[pdf]](https://arxiv.org/abs/2103.11070) `Findings of EMNLP 2021` 
+12. **ERNIE-Doc: A Retrospective Long-Document Modeling Transformer.** *Siyu Ding, Junyuan Shang, Shuohuan Wang, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang.* [[pdf]](https://arxiv.org/abs/2012.15688) `ACL 2021`
+13. **All NLP Tasks Are Generation Tasks: A General Pretraining Framework.** *Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin Yang, Jie Tang.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2103.10360) 
+14. **GeDi: Generative Discriminator Guided Sequence Generation.** *Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq Joty, Richard Socher, Nazneen Fatema Rajani.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2009.06367)  
+15. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters.** *Ruize Wang, Duyu Tang, Nan Duan, zhongyu wei, Xuanjing Huang, Jianshu Ji, Guihong Cao, Daxin Jiang, Ming Zhou.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2002.01808)
+16. **PLUG AND PLAY LANGUAGE MODELS : A SIMPLE APPROACH TO CONTROLLED TEXT GENERATION.** *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu.* `ICLR 2020` [[pdf]](https://arxiv.org/abs/1912.02164) 
+17. **Language Models are Few-Shot Learners.** *Tom B. Brown, et al.* `OpenAI blog 2020` [[pdf]](https://arxiv.org/abs/2005.14165) 
+18. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.** *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, Luke Zettlemoyer.* `ACL 2020` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.703/) 
+19. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu.* `JMLR 2020` [[pdf]](https://arxiv.org/abs/1910.10683) 
+20. **Improving Language Understanding by Generative Pre-Training.** *Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever.* `OpenAI blog 2018` [[pdf]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 
+21. **Language Models are Unsupervised Multitask Learners.** *Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever.* `OpenAI blog 2019` [[pdf]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 
 
 ### 2.6 Others
 
