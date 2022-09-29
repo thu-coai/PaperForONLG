@@ -74,32 +74,35 @@ Contributed by [Jian Guan](https://jianguanthu.github.io/), [Zhexin Zhang](https
 
 ## 1. Survey
 
-1. **Survey: Automatic Movie Plot and Script Generation.** *Prerak Gandhi and Pushpak Bhattacharyya.*`arxiv 2022` ![img](https://img.shields.io/badge/story-navy)
-2. **Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications.** *Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu.* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.06828)
-3. **Why is constrained neural language generation particularly challenging?** *Cristina Garbacea, Qiaozhu Mei.* [[pdf]](https://arxiv.org/abs/2206.05395)
-4. **Survey of Hallucination in Natural Language Generation.** *Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Andrea Madotto, Pascale Fung.* [[pdf]](https://arxiv.org/abs/2202.03629)
-5. **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text.** *Google.* [[pdf]](https://arxiv.org/abs/2202.06935) ![](https://img.shields.io/badge/evaluation-darkred)
-6. **State-of-the-Art in Automated Story Generation Systems Research.** *Rebeca Amaya Ansag, Avelino J. Gonzalez.* `Journal of Experimental & Theoretical Artificial Intelligence 2021.` [[pdf]](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2021.1971777) ![](https://img.shields.io/badge/story-navy)
-7. **A Systematic Investigation of Commonsense Understanding in Large Language Models.** *Xiang Lorraine Li, Adhi Kuncoro, Cyprien de Masson d'Autume, Phil Blunsom, Aida Nematzadeh.* [[pdf]](https://arxiv.org/abs/2111.00607) `arxiv 2021`
-8. **Retrieving and Reading : A Comprehensive Survey on Open-domain Question Answering.** *Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua.* [[pdf]](https://arxiv.org/abs/2101.00774) `arxiv 2021`
-9. **Automatic story generation: A survey of approaches.** *ARWA I. ALHUSSAIN and AQIL M. AZMI.* `ACM computing surveys 2021` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3453156) ![](https://img.shields.io/badge/story-navy)
-10. **Automatic Story Generation: Challenges and Attempts.** *Amal Alabdulkarim, Siyan Li, Xiangyu Peng.* `ACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.nuse-1.8/) ![](https://img.shields.io/badge/story-navy)
-11. **Eﬃcient Transformers: A Survey.** *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler.* [[pdf]](https://arxiv.org/abs/2009.06732) `arxiv 2020`
-12. **Combining pre-trained language models and structured knowledge.** *Pedro Colon-Hernandez, Catherine Havasi, Jason Alonso, Matthew Huggins, Cynthia Breazeal.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2101.12294) ![](https://img.shields.io/badge/knowledge-red)
-13. **A Survey of Knowledge-Enhanced Text Generation.** *Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.04389) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/story-navy) ![](https://img.shields.io/badge/knowledge-red)
-14. **Automatic Story Generation: State of the Art and Recent Trends.**  *Brian Daniel Herrera-González, Alexander Gelbukh, and Hiram Calvo.* `MICA 2020` [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-030-60887-3_8) ![](https://img.shields.io/badge/story-navy)
-15. **Towards Unified Dialogue System Evaluation: A Comprehensive Analysis of Current Evaluation Protocols.** *Sarah E. Finch, Jinho D. Choi.* `SIGDIAL 2020` [[pdf]](https://arxiv.org/abs/2006.06110) ![](https://img.shields.io/badge/dialog-gold)
-16. **Challenges in Building Intelligent Open-domain Dialog Systems.** *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao.* `TOIS 2020` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3383123) ![](https://img.shields.io/badge/dialog-gold)
-17. **Open-Domain Conversational Agents: Current Progress, Open Problems, and Future Directions.** *Stephen Roller, Y-Lan Boureau, Jason Weston, Antoine Bordes, Emily Dinan, Angela Fan, David Gunning, Da Ju, Margaret Li, Spencer Poff, Pratik Ringshia, Kurt Shuster, Eric Michael Smith, Arthur Szlam, Jack Urbanek, Mary Williamson.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2006.12442) ![](https://img.shields.io/badge/dialog-gold)
-18. **A Survey of Evaluation Metrics Used for NLG Systems.** *Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2008.12009) ![](https://img.shields.io/badge/evaluation-darkred)
-19. **Evaluation of Text Generation: A Survey.** *Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2006.14799) ![](https://img.shields.io/badge/evaluation-darkred)
-20. **Survey on evaluation methods for dialogue systems.** *Jan Deriu, Alvaro Rodrigo, Arantxa Otegi, Guillermo Echegoyen, Sophie Rosset, Eneko Agirre & Mark Cieliebak.* `Artificial Intelligence Review 2020` [[pdf]](https://link.springer.com/article/10.1007/s10462-020-09866-x) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/evaluation-darkred)
-21. **Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation.** *Cristina Garbacea, Samuel Carton, Shiyan Yan, Qiaozhu Mei.* `arxiv 2019` [[pdf]](https://arxiv.org/abs/1901.00398) ![](https://img.shields.io/badge/evaluation-darkred)
-22. **How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation.** *Chia-Wei Liu, Ryan Lowe, Iulian Serban, Mike Noseworthy, Laurent Charlin, Joelle Pineau.* `EMNLP 2016` [[pdf]](https://www.aclweb.org/anthology/D16-1230/) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/evaluation-darkred)
-23. **对话系统评价方法综述** *张伟男, 张杨子, 刘挺.* `中国科学 : 信息科学` [[pdf]](http://scis.scichina.com/cn/2017/N112017-00125.pdf) ![](https://img.shields.io/badge/dialog-gold) ![](https://img.shields.io/badge/evaluation-darkred)
-24. **A Survey of Available Corpora for Building Data-Driven Dialogue Systems.** *Iulian Vlad Serban, Ryan Lowe, Peter Henderson, Laurent Charlin, Joelle Pineau.* `arxiv 2015` [[pdf]](https://arxiv.org/abs/1512.05742) ![](https://img.shields.io/badge/dialog-gold)
-25. **A Survey of Transformers.** *Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.04554)
-26. **Pretrained Language Models for Text Generation: A Survey.** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2105.10311)
+1. **Neural Natural Language Generation: A Survey on Multilinguality, Multimodality, Controllability and Learning.** *Erkut Erdem et al.* `JAIR 2022`
+2. **Survey: Automatic Movie Plot and Script Generation.** *Prerak Gandhi and Pushpak Bhattacharyya.*`arxiv 2022` ![img](https://img.shields.io/badge/story-navy)
+3. **Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications.** *Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu.* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.06828)
+4. **Why is constrained neural language generation particularly challenging?** *Cristina Garbacea, Qiaozhu Mei.* [[pdf]](https://arxiv.org/abs/2206.05395)
+5. **Survey of Hallucination in Natural Language Generation.** *Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii, Yejin Bang, Andrea Madotto, Pascale Fung.* [[pdf]](https://arxiv.org/abs/2202.03629)
+6. **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text.** *Google.* [[pdf]](https://arxiv.org/abs/2202.06935) ![img](https://img.shields.io/badge/evaluation-darkred)
+7. **State-of-the-Art in Automated Story Generation Systems Research.** *Rebeca Amaya Ansag, Avelino J. Gonzalez.* `Journal of Experimental & Theoretical Artificial Intelligence 2021.` [[pdf]](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2021.1971777) ![img](https://img.shields.io/badge/story-navy)
+8. **A Systematic Investigation of Commonsense Understanding in Large Language Models.** *Xiang Lorraine Li, Adhi Kuncoro, Cyprien de Masson d'Autume, Phil Blunsom, Aida Nematzadeh.* [[pdf]](https://arxiv.org/abs/2111.00607) `arxiv 2021`
+9. **Retrieving and Reading : A Comprehensive Survey on Open-domain Question Answering.** *Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua.* [[pdf]](https://arxiv.org/abs/2101.00774) `arxiv 2021`
+10. **Automatic story generation: A survey of approaches.** *ARWA I. ALHUSSAIN and AQIL M. AZMI.* `ACM computing surveys 2021` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3453156) ![img](https://img.shields.io/badge/story-navy)
+11. **Automatic Story Generation: Challenges and Attempts.** *Amal Alabdulkarim, Siyan Li, Xiangyu Peng.* `ACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.nuse-1.8/) ![img](https://img.shields.io/badge/story-navy)
+12. **Eﬃcient Transformers: A Survey.** *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler.* [[pdf]](https://arxiv.org/abs/2009.06732) `arxiv 2020`
+13. **Combining pre-trained language models and structured knowledge.** *Pedro Colon-Hernandez, Catherine Havasi, Jason Alonso, Matthew Huggins, Cynthia Breazeal.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2101.12294) ![img](https://img.shields.io/badge/knowledge-red)
+14. **A Survey of Knowledge-Enhanced Text Generation.** *Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2010.04389) ![img](https://img.shields.io/badge/dialog-gold) ![img](https://img.shields.io/badge/story-navy) ![img](https://img.shields.io/badge/knowledge-red)
+15. **Automatic Story Generation: State of the Art and Recent Trends.**  *Brian Daniel Herrera-González, Alexander Gelbukh, and Hiram Calvo.* `MICA 2020` [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-030-60887-3_8) ![img](https://img.shields.io/badge/story-navy)
+16. **Towards Unified Dialogue System Evaluation: A Comprehensive Analysis of Current Evaluation Protocols.** *Sarah E. Finch, Jinho D. Choi.* `SIGDIAL 2020` [[pdf]](https://arxiv.org/abs/2006.06110) ![img](https://img.shields.io/badge/dialog-gold)
+17. **Challenges in Building Intelligent Open-domain Dialog Systems.** *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao.* `TOIS 2020` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3383123) ![img](https://img.shields.io/badge/dialog-gold)
+18. **Open-Domain Conversational Agents: Current Progress, Open Problems, and Future Directions.** *Stephen Roller, Y-Lan Boureau, Jason Weston, Antoine Bordes, Emily Dinan, Angela Fan, David Gunning, Da Ju, Margaret Li, Spencer Poff, Pratik Ringshia, Kurt Shuster, Eric Michael Smith, Arthur Szlam, Jack Urbanek, Mary Williamson.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2006.12442) ![img](https://img.shields.io/badge/dialog-gold)
+19. **A Survey of Evaluation Metrics Used for NLG Systems.** *Ananya B. Sai, Akash Kumar Mohankumar, Mitesh M. Khapra.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2008.12009) ![img](https://img.shields.io/badge/evaluation-darkred)
+20. **Evaluation of Text Generation: A Survey.** *Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao.* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2006.14799) ![img](https://img.shields.io/badge/evaluation-darkred)
+21. **Survey on evaluation methods for dialogue systems.** *Jan Deriu, Alvaro Rodrigo, Arantxa Otegi, Guillermo Echegoyen, Sophie Rosset, Eneko Agirre & Mark Cieliebak.* `Artificial Intelligence Review 2020` [[pdf]](https://link.springer.com/article/10.1007/s10462-020-09866-x) ![img](https://img.shields.io/badge/dialog-gold) ![img](https://img.shields.io/badge/evaluation-darkred)
+22. **Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation.** *Cristina Garbacea, Samuel Carton, Shiyan Yan, Qiaozhu Mei.* `arxiv 2019` [[pdf]](https://arxiv.org/abs/1901.00398) ![img](https://img.shields.io/badge/evaluation-darkred)
+23. **How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation.** *Chia-Wei Liu, Ryan Lowe, Iulian Serban, Mike Noseworthy, Laurent Charlin, Joelle Pineau.* `EMNLP 2016` [[pdf]](https://www.aclweb.org/anthology/D16-1230/) ![img](https://img.shields.io/badge/dialog-gold) ![img](https://img.shields.io/badge/evaluation-darkred)
+24. **对话系统评价方法综述** *张伟男, 张杨子, 刘挺.* `中国科学 : 信息科学` [[pdf]](http://scis.scichina.com/cn/2017/N112017-00125.pdf) ![img](https://img.shields.io/badge/dialog-gold) ![img](https://img.shields.io/badge/evaluation-darkred)
+25. **A Survey of Available Corpora for Building Data-Driven Dialogue Systems.** *Iulian Vlad Serban, Ryan Lowe, Peter Henderson, Laurent Charlin, Joelle Pineau.* `arxiv 2015` [[pdf]](https://arxiv.org/abs/1512.05742) ![img](https://img.shields.io/badge/dialog-gold)
+26. **A Survey of Transformers.** *Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.04554)
+27. **Pretrained Language Models for Text Generation: A Survey.** *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2105.10311)
+
+
 
 ## 2. Generative Model
 
@@ -326,25 +329,26 @@ Regarding `parameter-efficient tuning (prompt/prefix tuning)`, `plug-and-play`, 
 
 ## 4. Others
 
-1. **Beam Decoding with Controlled Patience.** *AI2.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2204.05424)
-2. **Don’t Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu.* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.150/)
-3. **Massive-scale Decoding for Text Generation using Lattices.** *UT Austin, Amazon.* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.344)
-4. **NEUROLOGIC A*esque Decoding: Constrained Text Generation with Lookahead Heuristics.** *UW, Allen.* `NAACL 2022 best paper` [[pdf]](https://arxiv.org/abs/2112.08726)
-5. **Quality-Aware Decoding for Neural Machine Translation.** *Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. de Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.00978)
-6. **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics.** *AI2* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.11705)
-7. **Factuality Enhanced Language Models for Open-Ended Text Generation.** *Nayeon Lee, Wei Ping, Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro.* `arxiv 2022`. [[pdf]](https://arxiv.org/abs/2206.04624)
-8. **Coherence boosting: When your pretrained language model is not paying enough attention.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `ACL 2022`. [[pdf]](https://aclanthology.org/2022.acl-long.565)
-9. **On Decoding Strategies for Neural Text Generators.** *Gian Wiher, Clara Meister, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2203.15721)
-10. **Knowledge Infusion Decoding.** *Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=upnDJ7itech)
-11. **A Contrastive Framework for Neural Text Generation.** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier.* [[pdf]](https://arxiv.org/abs/2202.06417) `arxiv 2022`
-12. **Typical Decoding for Natural Language Generation.** *Clara Meister, Tiago Pimentel, Gian Wiher, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.00666)
-13. **Long-range and hierarchical language predictions in brains and algorithms.** *Facebook* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2111.14232)
-14. **Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?** *Tianxing He, Jingzhao Zhang, Zhiming Zhou, James Glass.* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.415/)
-15. **Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models.** *AI2* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.114)
-16. **DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts.** *AI2.* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.03023)
-17. **Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Zhen Li, Bowen Zhou, Shuguang Cui, Zhiting Hu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.15078)
-18. **NEURO LOGIC DECODING : (Un)supervised Neural Text Generation with Predicate Logic Constraints.** *AI2.* `NAACL 2021.` [[pdf]](https://aclanthology.org/2021.naacl-main.339.pdf)
-19. **If beam search is the answer, what was the question?** *Clara Meister, Tim Vieira, Ryan Cotterell.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02650)
-20. **Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning.** *AI2 *  `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.05906)
-21. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.*  `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
-22. **The Curious Case of Neural Text Degeneration.** *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi.* `ICLR 2020` [[pdf]](https://openreview.net/forum?id=rygGQyrFvH)
+1. **Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation.** *Jin Xu, Xiaojiang Liu, Jianhao Yan, Deng Cai, Huayang Li, Jian Li.* `NeurIPS 2022` [[pdf]](https://arxiv.org/abs/2206.02369)
+2. **Beam Decoding with Controlled Patience.** *AI2.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2204.05424)
+3. **Don’t Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu.* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.150/)
+4. **Massive-scale Decoding for Text Generation using Lattices.** *UT Austin, Amazon.* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.344)
+5. **NEUROLOGIC A*esque Decoding: Constrained Text Generation with Lookahead Heuristics.** *UW, Allen.* `NAACL 2022 best paper` [[pdf]](https://arxiv.org/abs/2112.08726)
+6. **Quality-Aware Decoding for Neural Machine Translation.** *Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. de Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.* `NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.00978)
+7. **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics.** *AI2* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.11705)
+8. **Factuality Enhanced Language Models for Open-Ended Text Generation.** *Nayeon Lee, Wei Ping, Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro.* `arxiv 2022`. [[pdf]](https://arxiv.org/abs/2206.04624)
+9. **Coherence boosting: When your pretrained language model is not paying enough attention.** *Nikolay Malkin, Zhen Wang, Nebojsa Jojic.* `ACL 2022`. [[pdf]](https://aclanthology.org/2022.acl-long.565)
+10. **On Decoding Strategies for Neural Text Generators.** *Gian Wiher, Clara Meister, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2203.15721)
+11. **Knowledge Infusion Decoding.** *Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=upnDJ7itech)
+12. **A Contrastive Framework for Neural Text Generation.** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier.* [[pdf]](https://arxiv.org/abs/2202.06417) `arxiv 2022`
+13. **Typical Decoding for Natural Language Generation.** *Clara Meister, Tiago Pimentel, Gian Wiher, Ryan Cotterell.* `arxiv 2022` [[pdf]](https://arxiv.org/abs/2202.00666)
+14. **Long-range and hierarchical language predictions in brains and algorithms.** *Facebook* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2111.14232)
+15. **Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?** *Tianxing He, Jingzhao Zhang, Zhiming Zhou, James Glass.* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.415/)
+16. **Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models.** *AI2* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.114)
+17. **DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts.** *AI2.* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.03023)
+18. **Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation.** *Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Zhen Li, Bowen Zhou, Shuguang Cui, Zhiting Hu.* `arxiv 2021` [[pdf]](https://arxiv.org/abs/2106.15078)
+19. **NEURO LOGIC DECODING : (Un)supervised Neural Text Generation with Predicate Logic Constraints.** *AI2.* `NAACL 2021.` [[pdf]](https://aclanthology.org/2021.naacl-main.339.pdf)
+20. **If beam search is the answer, what was the question?** *Clara Meister, Tim Vieira, Ryan Cotterell.* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.02650)
+21. **Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning.** *AI2 *  `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.05906)
+22. **A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation.** *Moin Nadeem, Tianxing He, Kyunghyun Cho, James Glass.*  `AACL 2020` [[pdf]](https://arxiv.org/abs/2009.07243)
+23. **The Curious Case of Neural Text Degeneration.** *Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi.* `ICLR 2020` [[pdf]](
